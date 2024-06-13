@@ -1,21 +1,21 @@
 [submodule "core"]
 	path = core
-	url = https://github.com/ONLYOFFICE/core.git
+	url = https://github.com/oliverkirk-sudo/core.git
 [submodule "core-fonts"]
 	path = core-fonts
-	url = https://github.com/ONLYOFFICE/core-fonts.git
+	url = https://github.com/oliverkirk-sudo/core-fonts.git
 [submodule "dictionaries"]
 	path = dictionaries
-	url = https://github.com/ONLYOFFICE/dictionaries.git
+	url = https://github.com/oliverkirk-sudo/dictionaries.git
 [submodule "sdkjs"]
 	path = sdkjs
-	url = https://github.com/ONLYOFFICE/sdkjs.git
+	url = https://github.com/oliverkirk-sudo/sdkjs.git
 [submodule "server"]
 	path = server
-	url = https://github.com/ONLYOFFICE/server.git
+	url = https://github.com/oliverkirk-sudo/server.git
 [submodule "web-apps"]
 	path = web-apps
-	url = https://github.com/ONLYOFFICE/web-apps.git
+	url = https://github.com/oliverkirk-sudo/web-apps.git
 [submodule "sdkjs-plugins/plugin-highlightcode"]
 	path = sdkjs-plugins/plugin-highlightcode
 	url = https://github.com/ONLYOFFICE/plugin-highlightcode
